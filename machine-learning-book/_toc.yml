@@ -1,0 +1,35 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: linear methods
+    chapters:
+    - file: a1.linear regression
+    - file: a2.linear regression variants
+    - file: a3.logistic regression
+    - file: a4.linear svm
+    - file: a5.kernel svm
+  - caption: tree methods
+    chapters:
+    - file: b1.decision tree
+    - file: b2.random forest
+    - file: b3.adaboost
+    - file: b4.GBDT
+    - file: b5.xgboost
+    - file: b6.lightgbm
+  - caption: other supervised learning
+    chapters:
+    - file: c1.knn
+    - file: c2.naive bayes
+    - file: c3.neural network
+  - caption: unsupervised learning
+    chapters:
+    - file: d1.k-means
+    - file: d2.dbscan
+    - file: d3.GMM
+    - file: d4.EM
+    - file: d5.bayesian GMM
+    - file: d6.PCA
+    - file: d7.LLE

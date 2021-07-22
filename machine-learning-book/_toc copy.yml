@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: d1.k-means
+- file: d2.dbscan
+- file: d3.GMM
+- file: d4.EM
+- file: d5.bayesian GMM
+- file: d6.PCA
+- file: d7.LLE

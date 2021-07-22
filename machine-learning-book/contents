@@ -1,0 +1,37 @@
+linear regression, including ridge and lasso
+polynomial regression
+logistic regression
+softmax regression
+
+SVM including kernels
+
+knn
+
+naive bayes
+
+decision tree
+random forest
+adaboost
+GBDT
+XGBoost
+LightGBM
+
+neural network
+
+k-means
+DBSCAN
+
+GMM
+EM
+BayesGaussianMixture
+
+PCA
+LLE
+
+<perceptron>
+<linear discriminant analysis>
+<factor analysis>
+<independent component analysis>
+<HMM>
+<max entropy>
+<CRF>
